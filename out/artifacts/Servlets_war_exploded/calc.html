@@ -1,0 +1,26 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+</HEAD>
+<TITLE>Przyklad POST</TITLE>
+<H1 ALIGN="CENTER">Kalkulator</H1>
+<FORM ACTION="http://localhost:8080/calc"
+      METHOD="POST">
+    V1:
+    <INPUT TYPE="TEXT" NAME="v1"><BR>
+    V2:
+    <INPUT TYPE="TEXT" NAME="v2"><BR>
+    Operation:
+   <div>
+    +
+    <INPUT TYPE="RADIO" NAME="operation" value="+"><BR>
+    -
+    <INPUT TYPE="RADIO" NAME="operation" value="-"><BR>
+    *
+    <INPUT TYPE="RADIO" NAME="operation" value="*"><BR>
+    /
+    <INPUT TYPE="RADIO" NAME="operation" value="/"><BR>
+   </div>
+    <INPUT TYPE="SUBMIT" VALUE="Wyslij">
+</FORM>
+</HTML>

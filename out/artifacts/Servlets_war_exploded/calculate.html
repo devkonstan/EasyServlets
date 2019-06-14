@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+</HEAD>
+<TITLE>Przyklad POST</TITLE>
+<H1 ALIGN="CENTER">Kalkulator</H1>
+<FORM ACTION="http://localhost:8080/calculate"
+      METHOD="POST">
+    Num1:
+    <INPUT TYPE="TEXT" NAME="num1"><BR>
+    Num2:
+    <INPUT TYPE="TEXT" NAME="num2"><BR>
+    <p>Select action:</p>
+    <div>
+        <input type="radio" id="add" name="action" value="add" checked>
+        <label for="add">Add</label>
+    </div>
+    <div>
+        <input type="radio" id="subtract" name="action" value="subtract">
+        <label for="subtract">Subtract</label>
+    </div>
+    <div>
+        <input type="radio" id="multiply" name="action" value="multiply">
+        <label for="multiply">Multiply</label>
+    </div>
+    <div>
+        <input type="radio" id="divide" name="action" value="divide">
+        <label for="divide">Divide</label>
+    </div>
+
+    <INPUT TYPE="SUBMIT" VALUE="Calculate">
+</FORM>
+</HTML>
