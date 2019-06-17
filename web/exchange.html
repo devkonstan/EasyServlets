@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML>
+<HEAD>
+</HEAD>
+<TITLE>Przyklad POST</TITLE>
+<H1 ALIGN="CENTER">Exchange.Exchange</H1>
+<FORM ACTION="http://localhost:8080/exchange"
+      METHOD="POST">
+
+    Value:
+    <INPUT TYPE="TEXT" NAME="value"><BR>
+
+    <BR>Select currency IN:</BR>
+
+    <div>
+        <input type="radio"  name="actionIN" value="PLN">
+        <label>PLN</label>
+    </div>
+
+    <div>
+        <input type="radio" name="actionIN" value="EUR">
+        <label>EUR</label>
+    </div>
+
+    <div>
+        <input type="radio"  name="actionIN" value="USD">
+        <label>USD</label>
+    </div>
+
+    <BR>Select currency OUT:</BR>
+
+    <div>
+        <input type="radio" name="actionOUT" value="toPLN">
+        <label>PLN</label>
+    </div>
+
+    <div>
+        <input type="radio" name="actionOUT" value="toEUR">
+        <label>EUR</label>
+    </div>
+
+    <div>
+        <input type="radio" name="actionOUT" value="toUSD">
+        <label>USD</label>
+    </div>
+    <INPUT TYPE="SUBMIT" VALUE="Exchange.Exchange">
+</FORM>
+</HTML>
