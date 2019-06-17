@@ -32,14 +32,14 @@ public class Users extends HttpServlet {
             ServletException, IOException {
         String filter = req.getParameter("imie");
         PrintWriter out = resp.getWriter();
-        users.stream()
-                .filter((User user) ->  user.equals(filter))
+        users.stream() //wyrazenie lambda
+                .filter((User user) ->  user.equals(filter)) //rzutowanie
                 .forEach(out::println);
 
-//        for (Users.User user : users) {
+//        for (User user : users) {
 //            if (user.imie.equals(filter)) {
-//                PrintWriter out = resp.getWriter();
-//                out.println(user);
+//                PrintWriter out2 = resp.getWriter();
+//                out2.println(user);
 //            }
 //        }
 

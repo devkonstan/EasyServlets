@@ -38,7 +38,7 @@ public class User {
 
     @Override
     public String toString() {
-        return "Users.User{" +
+        return "User{" +
                 "imie='" + imie + '\'' +
                 ", nazwisko='" + nazwisko + '\'' +
                 ", wiek=" + wiek +
