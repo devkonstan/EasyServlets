@@ -1,5 +1,0 @@
-
-gsquid:CommentedOutCodeLine"<This block of commented-out lines of code should be removed.(‰¥©®úÿÿÿÿ
-wsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ì¯‚ºûÿÿÿÿ
-jsquid:S1602"SRemove useless curly braces around statement and then remove useless return keyword(òÉÿÍ
-csquid:UnusedPrivateMethod"7Remove this unused private "MathOperation" constructor.(ñ³‚‹8¿Ìª²Ù-
