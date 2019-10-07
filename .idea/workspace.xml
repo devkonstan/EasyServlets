@@ -6,53 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de650f27-f736-4c43-b791-eb0faa8982ae" name="Default Changelist" comment="re-organization of the project">
-      <change beforePath="$PROJECT_DIR$/.idea/artifacts/Servlets_war_exploded.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/artifacts/Servlets_war_exploded.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/6/2613be3cc5fce385559ddff68f6517e0b984c1d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/4/648717d814f2f82ea49bdd15891e3a43a7280137" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/6/669652134130a23bad215fa160c91ba767f61875" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/c/7cf10436a88819c1e211de6b9ccc52312c7aa27e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/a/8a1e89f254423d252e06eb607f05682ed5f4e10e" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/b/9b6ab362794d168fe2927376f7110dde558358f8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/7/a70dd212c05fc5cc9434e9ec7f0ca33b1c12bc31" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a862b92d10f810e224187403c322cb8e01f5e244" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/0/c06215876a1c3eccc668205ef72c0e448d3d5fcf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/e/ee2b052457ee861dec47e9fdbe1ec19d722f5466" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8f6ccab2f71fc7c0dd6b506e31cb856f7a2fa2d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/CalcWithLambdas/CalcServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/CalcWithLambdas/MathFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/CalcWithLambdas/MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/META-INF/Servlets.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/PostExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/Users/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/classes/Users/Users.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/WEB-INF/web.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/calc.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/calculate.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/example.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/index.jsp" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/post.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/artifacts/Servlets_war_exploded/users.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/CalcWithLambdas/CalcServlet.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/CalcWithLambdas/MathFunction.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/CalcWithLambdas/MathOperation.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/Calculator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/Example.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/HelloWorld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/META-INF/Servlets.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/PostExample.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/Users/User.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Servlets/Users/Users.class" beforeDir="false" />
-    </list>
+    <list default="true" id="de650f27-f736-4c43-b791-eb0faa8982ae" name="Default Changelist" comment="re-organization of the project" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -234,7 +188,7 @@
       <workItem from="1570184536170" duration="979000" />
       <workItem from="1570186364050" duration="12000" />
       <workItem from="1570366195459" duration="23617000" />
-      <workItem from="1570447335134" duration="1588000" />
+      <workItem from="1570447335134" duration="1873000" />
     </task>
     <task id="LOCAL-00001" summary="re-organization of the project">
       <created>1570444841308</created>
